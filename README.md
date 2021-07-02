@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @guidopellegrini
+- 👀 I’m interested in Angular & .Net 
+- 🌱 I’m currently learning Angular & .Net
+- 💞️ I love my Work!!
+- 📫 How to reach me: guidoandrespellegrini@gmail.com
